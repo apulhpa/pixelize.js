@@ -1,0 +1,24 @@
+{
+  "name": "pixelize.js",
+  "version": "1.0.0",
+  "description": "Pixelize Discord NPM Package. Coding with no limits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apulhpa/pixelize.js.git"
+  },
+  "keywords": [
+    "pixelize.js",
+    "discord",
+    "discord.js"
+  ],
+  "author": "apulhpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apulhpa/pixelize.js/issues"
+  },
+  "homepage": "https://github.com/apulhpa/pixelize.js#readme"
+}
